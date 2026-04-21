@@ -31,4 +31,4 @@ the actual byte count, then returns the data portion in a caller-owned buffer.
 
 Screenshot 1A — ./test_objects
 
-![Phase 1A](1a.png)
+![Phase 1A](1a.jpeg)
