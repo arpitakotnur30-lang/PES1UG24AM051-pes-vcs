@@ -30,4 +30,5 @@ the type and declared size from the header, validates the declared size against
 the actual byte count, then returns the data portion in a caller-owned buffer.
 
 Screenshot 1A — ./test_objects
-![Phase 1A](images/1a.png)
+
+![Phase 1A](1a.png)
